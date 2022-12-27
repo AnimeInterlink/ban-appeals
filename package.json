@@ -19,7 +19,7 @@
     "dotenv": "^8.2.0",
     "history": "^5.0.1",
     "netlify-lambda": "^2.0.1",
-    "node-fetch": "^2.6.7",
+    "node-fetch": "^3.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-ga": "^3.3.0",
