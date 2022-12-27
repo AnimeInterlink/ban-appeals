@@ -16,7 +16,7 @@
     "@testing-library/user-event": "^14.0.0",
     "chalk": "^5.0.0",
     "discord-oauth2": "^2.3.0",
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.0.0",
     "history": "^5.0.1",
     "netlify-lambda": "^2.0.1",
     "node-fetch": "^3.0.0",
